@@ -24,6 +24,10 @@ i{
     
     
 }
+.custom-card p.display-6 {
+    font-size: 1.5rem; /* same for all cards */
+    margin: 0;          /* removes extra spacing */
+}
 p{
     color: black;
 
