@@ -12,7 +12,8 @@ body,html{
     
 }
 
-header{ background: linear-gradient(135deg, #2193b0, #0f2027); color: white; padding: 15px 0; border-bottom-left-radius: 20px; border-bottom-right-radius: 20px; }
+header{ background-color: #34495e;
+     /* Dark blue header */ color: white; }
 i{
   
     font-size: 30px;
