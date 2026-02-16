@@ -13,7 +13,8 @@ body,html{
 }
 
 header{ background-color: #34495e;
-     /* Dark blue header */ color: white; }
+ color: white;    /* Dark blue header */ 
+}
 i{
   
     font-size: 30px;
